@@ -47,11 +47,11 @@ public class JokenPo {
 	pc = (computador );
 	
 	
-	if(pc > 2) {
+	if(pc > 1) {
 		System.out.print("Computador ganhou" );
 	} else if (pc >= 3){
 System.out.println("Jogador 1 ganhou");
-	} else if (pc >= 1){	
+	} else if (pc >= 2){	
 	System.out.print("Empate" );
 		
 
