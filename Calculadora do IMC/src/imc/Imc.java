@@ -51,7 +51,7 @@ public class Imc extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
-		// bot縊 sobre
+		// botão sobre
 		JButton btnSobre = new JButton("Sobre");
 		btnSobre.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
