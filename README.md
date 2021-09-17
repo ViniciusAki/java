@@ -7,4 +7,4 @@
 
 ### Assitir ao vídeo de introdução 
 
-[![Watch the video](http://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](http://www.youtube.com/watch?v=srNtqw2LEBU)
+[![Watch the video](http://img.youtube.com/vi/srNtqw2LEBU/0.jpg)](https://youtu.be/7VgWAxEkv_U)
